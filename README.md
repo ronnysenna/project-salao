@@ -22,7 +22,7 @@ Este projeto é um site desenvolvido utilizando **React** com o ambiente de dese
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/project-salao.git
+   git clone https://github.com/ronnysenna/project-salao
    cd project-salao
 
 
