@@ -1,0 +1,99 @@
+/* src/assets/styles/global.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: end;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+.hero {
+    background: url('../images/bg.jpg') no-repeat center center/cover;
+    height: 100vh;
+    color: #fff;
+    padding: 150px;
+    display: block;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #f00;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.features {
+    padding: 50px 0;
+    background: #f4f4f4;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.feature {
+    background: #fff;
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: #fff;
+}
+
+ion-icon {
+    font-size: 34px;
+    padding: 10px;
+    color: #fff;
+   
+  }
+
+ion-icon a:hover{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    transition: background 0.2s;
+    border-radius: 50%;
+    
+  }
