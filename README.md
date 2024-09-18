@@ -1,4 +1,4 @@
-# Projeto de Site Salão de Beleza - React + Vite + React Router + Material UI
+# Projeto de um Site Salão de Beleza - React + Vite + React Router + Material UI
 
 Este projeto é um site desenvolvido utilizando **React** com o ambiente de desenvolvimento otimizado pelo **Vite**. A navegação entre as páginas é gerenciada pelo **React Router** e o design da interface segue os padrões de **Material UI**, proporcionando uma experiência de usuário moderna e responsiva.
 
