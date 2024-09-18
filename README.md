@@ -1,55 +1,86 @@
-# 🚀 Base Template: React + Vite + React Router + Material UI
-## Este repositório contém uma estrutura de projeto simples e eficiente para iniciar rapidamente seus projetos utilizando React, Vite, React Router e Material UI. Ideal para quem quer começar um novo projeto com as melhores práticas e tecnologias modernas.
+# Projeto de Site Salão de Beleza - React + Vite + React Router + Material UI
 
- # <h1>Tecnologias utilizadas</h1>
+Este projeto é um site desenvolvido utilizando **React** com o ambiente de desenvolvimento otimizado pelo **Vite**. A navegação entre as páginas é gerenciada pelo **React Router** e o design da interface segue os padrões de **Material UI**, proporcionando uma experiência de usuário moderna e responsiva.
 
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="100" height="100" /> <sub>React</sub>  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier icon" width="100" height="100" /> <sub>VsCode</sub> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="100" height="100" /> <sub>JavaScript</sub> <img src="https://media.tenor.com/F_aIpdp3hEwAAAAi/git-github.gif" alt="Git icon" width="150" height="100" /> <sub>Git/GitHub</sub>
+## 🔧 Tecnologias Utilizadas
 
-# 📂 Estrutura do Projeto
-```
-src/
-├── components/
-│   └── Navbar.jsx   # Barra de navegação
-│   └── Footer.jsx   # Rodapé
-├── pages/
-│   └── Home.jsx     # Página inicial
-│   └── About.jsx    # Página sobre
-│   └── Contact.jsx  # Página de contato
-├── App.jsx          # Componente principal do app com as rotas
-└── main.jsx         # Entrada principal do Vite
-```
-
-# 📦 Como Iniciar o Projeto
-Clone o repositório:
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **Vite**: Ferramenta de build rápida e eficiente, ideal para projetos React.
+- **React Router**: Gerenciamento de rotas para navegação de páginas no frontend.
+- **Material UI**: Biblioteca de componentes UI com design limpo e responsivo.
 
 
-Copiar código
-```
-git clone https://github.com/LucasMarcelo85/Base-React-Vite.git
+  [![My Skills](https://skillicons.dev/icons?i=react,vite,materialui,git,github,)](https://skillicons.dev)
 
-```
-Instale as dependências:
-Copiar código
-```
-npm install
+## 🚀 Funcionalidades
 
-```
-Execute o servidor de desenvolvimento:
-Copiar código
+- Navegação fluida entre diferentes páginas com **React Router**.
+- Interface responsiva e esteticamente agradável utilizando **Material UI**.
+- Estrutura de componentes reutilizáveis, facilitando a manutenção e escalabilidade do projeto.
 
-```
-npm run dev
-```
-## 🌟 Funcionalidades
-Roteamento dinâmico com React Router 🚦 <br>
-Design responsivo e estilizado com Material UI 🎨<br>
-Setup inicial rápido com Vite ⚡<br>
-Componentes organizados e reutilizáveis 🧩
-## 🚧 Em desenvolvimento
-Implementação de autenticação 🔐 <br>
-Integração com API externa 🌐
-## 🔗 Links úteis
-Documentação do React <br>
-Documentação do Vite <br>
-Documentação do React Router <br>
-Documentação do Material UI
+## ⚙️ Instalação e Execução
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/project-salao.git
+   cd project-salao
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="25" height="25" /> Membros ativos do projeto                                                                                                                                                                                                                                                               
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/LucasMarcelo85.png" height="90px">
+      <br><br> Lucas Marcelo <br><br>
+      <a href="https://github.com/LucasMarcelo85.png" target="_blank"><img alt="GitHub" src="https://skillicons.dev/icons?i=github," style="margin-left: 5px;"/></a>
+      <a href="https://github.com/LucasMarcelo85.png9" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin," width="" /></a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ronnysenna.png" height="90px">
+      <br><br> Ronny Senna <br><br>
+      <a href="https://github.com/ronnysenna" target="_blank"><img alt="GitHub" src="https://skillicons.dev/icons?i=github," style="margin-right: 5px; /></a>
+      <a href="https://www.linkedin.com/in/ronnysenna" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin," /></a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/italocampo.png" height="90px">
+      <br><br> Italo Campos <br><br>
+      <a href="https://github.com/italocampo" target="_blank"><img alt="GitHub" src="https://skillicons.dev/icons?i=github," style="margin-right: 5px; /></a>
+      <a href="https://www.linkedin.com/in/italo-campos-70850a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin," /></a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/brunoricardo1523.png" height="90px">
+      <br><br> Bruno Ricardo <br><br>
+      <a href="https://github.com/brunoricardo1523" target="_blank"><img alt="GitHub" src="https://skillicons.dev/icons?i=github," style="margin-right: 5px; /></a>
+      <a href="https://www.linkedin.com/in/italo-campos-70850a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin," /></a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> Licença
+
+-   Esse projeto está sob a licença [The Unlicense](./LICENSE.txt).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
