@@ -1,22 +1,22 @@
-import { Typography } from '@mui/material';
+import { Typography } from "@mui/material";
+import banner from '../assets/images/bg.jpg';
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+</style>
 
-const Header = () => {
+const Nav = () => {
   return (
-    <header>
+    <nav>
+     
       <Typography>
-      <nav>
-      <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Servicos</a></li>
-          <li><a href="#">Contatos</a></li>
-        </ul>
-
-      </nav>
-
-</Typography>
-    </header>
+            <h3>O melhor Salão de Fortaleza</h3>
+            <h1>Tok Sutil <br /><button>Agendar</button></h1>
+            
+            <img src={banner} alt="banner" />
+                    
+      </Typography>
+    </nav>
   );
 };
 
-export default Header;
+export default Nav;

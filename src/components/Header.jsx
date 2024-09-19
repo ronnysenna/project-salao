@@ -1,20 +1,28 @@
-import { Typography } from "@mui/material";
 
-const Nav = () => {
+
+
+import { Typography } from '@mui/material';
+import slogan from '../assets/images/icon.png'
+
+const Header = () => {
   return (
-    <nav>
+    <header>
+      
       <Typography>
-        <div>
-          <section>
-            <div>
-              <h1>Salão de Beleza</h1>
-              <button>Agendar</button>
-            </div>
-          </section>
-        </div>
+        <img src={slogan} alt="icon"/>
+      
+      <ul>
+          <li><a href="#">Página Inicial</a></li>
+          <li><a href="#">Serviços</a></li>
+          <li><a href="#">Produtos</a></li>
+          <li><a href="#">Studio</a></li>
+          <li><a href="#">Sobre</a></li>
+          <li><a href="#">Contatos</a></li>
+        </ul>
+
       </Typography>
-    </nav>
+</header>
   );
 };
 
-export default Nav;
+export default Header;
