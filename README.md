@@ -10,7 +10,7 @@ Este projeto é um site desenvolvido utilizando **React** com o ambiente de dese
 - **Material UI**: Biblioteca de componentes UI com design limpo e responsivo.
 
 
-  [![My Skills](https://skillicons.dev/icons?i=react,vite,materialui,git,github,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,vite,materialui,git,github,)](https://skillicons.dev)
 
 ## 🚀 Funcionalidades
 
@@ -26,32 +26,35 @@ Este projeto é um site desenvolvido utilizando **React** com o ambiente de dese
    cd project-salao
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="25" height="25" /> Membros ativos do projeto                                                                                                                                                                                                                                                               
-<table>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Brazil.webp" alt="Flag Brazil" width="25" height="25" /> Membros ativos do projeto                                                                                                                                                                                    
+
+
+<table align="center">
+  <br>
   <tr>
     <td align="center">
       <img src="https://github.com/LucasMarcelo85.png" height="90px">
       <br><br> Lucas Marcelo <br><br>
-      <a href="https://github.com/LucasMarcelo85.png" target="_blank"><img alt="GitHub" src="https://skillicons.dev/icons?i=github," style="margin-left: 5px;"/></a>
-      <a href="https://github.com/LucasMarcelo85.png9" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin," width="" /></a>
+      <a href="https://github.com/LucasMarcelo85.png" target="_blank"><img alt="GitHub" src="https://img.icons8.com/?size=100&id=g7P0iny5Rros&format=png&color=000000" width="50""/></a>
+      <a href="https://github.com/LucasMarcelo85.png9" target="_blank"><img alt="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="50" /></a>
     </td>
     <td align="center">
       <img src="https://github.com/ronnysenna.png" height="90px">
       <br><br> Ronny Senna <br><br>
-      <a href="https://github.com/ronnysenna" target="_blank"><img alt="GitHub" src="https://skillicons.dev/icons?i=github," style="margin-right: 5px; /></a>
-      <a href="https://www.linkedin.com/in/ronnysenna" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin," /></a>
+      <a href="https://github.com/ronnysenna" target="_blank"><img alt="GitHub" src="https://img.icons8.com/?size=100&id=g7P0iny5Rros&format=png&color=000000" width="50" /></a>
+      <a href="https://www.linkedin.com/in/ronnysenna" target="_blank"><img alt="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="50" /></a>
     </td>
     <td align="center">
       <img src="https://github.com/italocampo.png" height="90px">
       <br><br> Italo Campos <br><br>
-      <a href="https://github.com/italocampo" target="_blank"><img alt="GitHub" src="https://skillicons.dev/icons?i=github," style="margin-right: 5px; /></a>
-      <a href="https://www.linkedin.com/in/italo-campos-70850a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin," /></a>
+      <a href="https://github.com/italocampo" target="_blank"><img alt="GitHub" src="https://img.icons8.com/?size=100&id=g7P0iny5Rros&format=png&color=000000" width="50" /></a>
+      <a href="https://www.linkedin.com/in/italo-campos-70850a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img alt="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="50"" width="50" /></a>
     </td>
     <td align="center">
       <img src="https://github.com/brunoricardo1523.png" height="90px">
       <br><br> Bruno Ricardo <br><br>
-      <a href="https://github.com/brunoricardo1523" target="_blank"><img alt="GitHub" src="https://skillicons.dev/icons?i=github," style="margin-right: 5px; /></a>
-      <a href="https://www.linkedin.com/in/italo-campos-70850a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin," /></a>
+      <a href="https://github.com/brunoricardo1523" target="_blank"><img alt="GitHub" src="https://img.icons8.com/?size=100&id=g7P0iny5Rros&format=png&color=000000" width="50" /></a>
+      <a href="https://www.linkedin.com/in/italo-campos-70850a306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img alt="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="50" /></a>
     </td>
   </tr>
 </table>
