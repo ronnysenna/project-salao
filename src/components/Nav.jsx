@@ -1,8 +1,6 @@
 import { Typography } from "@mui/material";
 import banner from '../assets/images/bg.jpg';
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
-</style>
+
 
 const Nav = () => {
   return (
@@ -20,4 +18,4 @@ const Nav = () => {
 };
 
 export default Nav;
-export default Nav;
+
