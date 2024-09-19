@@ -1,6 +1,3 @@
-
-
-
 import { Typography } from '@mui/material';
 import slogan from '../assets/images/icon.png'
 
@@ -25,5 +22,4 @@ const Header = () => {
   );
 };
 
-export default Header;
 export default Header;
