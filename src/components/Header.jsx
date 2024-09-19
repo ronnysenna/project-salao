@@ -1,20 +1,20 @@
-import { Typography } from "@mui/material";
+import { Typography } from '@mui/material';
 
-const Nav = () => {
+const Header = () => {
   return (
-    <nav>
+    <header>
       <Typography>
-        <div>
-          <section>
-            <div>
-              <h1>Salão de Beleza</h1>
-              <button>Agendar</button>
-            </div>
-          </section>
-        </div>
-      </Typography>
-    </nav>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Servicos</a></li>
+          <li><a href="#">Contatos</a></li>
+        </ul>
+      </nav>
+</Typography>
+    </header>
   );
 };
 
-export default Nav;
+export default Header;

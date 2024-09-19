@@ -1,22 +1,16 @@
-import { Typography } from '@mui/material';
+import { Typography } from "@mui/material";
+import SchedulerCalendar from '../components/agendaamento/SchedulerCalendar';
 
-const Header = () => {
+const Nav = () => {
   return (
-    <header>
-      <Typography>
-      <nav>
-      <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Servicos</a></li>
-          <li><a href="#">Contatos</a></li>
-        </ul>
-
-      </nav>
-
-</Typography>
-    </header>
+    <nav>
+      <Typography class="hero">
+        <div>
+          <SchedulerCalendar />
+        </div>
+      </Typography>
+    </nav>
   );
 };
 
-export default Header;
+export default Nav;
