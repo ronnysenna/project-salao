@@ -48,7 +48,9 @@ header img{
     padding: 0 0 0 3em;
 
 }
-
+nav button:hover{
+    color: darkgoldenrod;
+}
 nav img{
     width: 100%;
     
