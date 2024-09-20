@@ -32,9 +32,10 @@ header a:hover{
     color: darkgoldenrod;
 }
 header img{
-    width: 4em;
+    width: 10em;
     position: absolute;
-    padding: 0 0 0 3em;
+    padding: 6% 9%;
+
 }
 nav img{
     width: 100%;  
@@ -53,7 +54,7 @@ nav h1{
     font-family: "Gowun Batang", serif;
     font-size: 60px;
     position: absolute;
-    margin-top: 0.4em;
+    margin-top: 3em;
     margin-left: 150px;
     color: #f4f4f4;
     text-transform: uppercase;
@@ -66,27 +67,26 @@ nav h3{
     font-size: 24px;
     margin: 10px 0;
     position: absolute;
-    margin-top: 4em;
+    margin-top: 11em;
     margin-left: 150px;
     color: #f4f4f4;
     
 }
 
-nav button{
+nav div{
 
     padding: 10px 30px;
     font-size: 16px;
-    background-color: #383636;
     color: white;
     border: none;
     cursor: pointer;
     border-radius: 5px;
     position: absolute;
-    margin-top: 9em;
-    margin-left: 150px;
+    margin-top: 19em;
+    margin-left: 120px;
 }
 nav button:hover{
-    color: darkgoldenrod;
+    color: rgb(235, 232, 226);
 }
 
 .features {

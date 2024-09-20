@@ -1,6 +1,6 @@
 import { Typography } from "@mui/material";
-import banner from '../assets/images/bg.jpg';
-
+import banner from "../assets/images/bg.jpg";
+import AgendarButton from "../components/agendaamento/AgendarButton";
 
 const Nav = () => {
   return (
@@ -8,7 +8,9 @@ const Nav = () => {
       <Typography>
         <h1>Tok Sutil</h1>
         <h3>O melhor Salão de Fortaleza.</h3>
-        <button>Agendar</button>
+        <div>
+          <AgendarButton />
+        </div>
         <img src={banner} alt="banner" />
       </Typography>
     </nav>
@@ -16,4 +18,3 @@ const Nav = () => {
 };
 
 export default Nav;
-
