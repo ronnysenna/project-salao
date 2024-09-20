@@ -45,7 +45,17 @@ const AgendarButton = () => {
 
   return (
     <>
-      <Button variant="contained" onClick={handleOpen}>
+      <Button
+        variant="contained"
+        onClick={handleOpen}
+        color="secondary"
+        sx={{
+          mt: 2,
+          width: "100%",
+          backgroundColor: "#0e0d0dc5", // Cor personalizada (vermelho)
+          "&:hover": { backgroundColor: "#3333" }, // Cor ao passar o mouse (hover)
+        }}
+      >
         Agendar
       </Button>
 
@@ -95,7 +105,12 @@ const AgendarButton = () => {
             variant="contained"
             color="primary"
             onClick={handleAgendar}
-            sx={{ mt: 2, width: "100%" }}
+            sx={{
+              mt: 2,
+              width: "100%",
+              backgroundColor: "#0e0d0dc5", // Cor personalizada (vermelho)
+              "&:hover": { backgroundColor: "#333" }, // Cor ao passar o mouse (hover)
+            }}
           >
             Agendar
           </Button>
